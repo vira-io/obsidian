@@ -1,5 +1,0 @@
-// cargo
-// hl
-
-> cargo build --release
-> hl compile wrapper.hl
